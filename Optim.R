@@ -5,7 +5,7 @@ apsimExe <-"C:/Program Files (x86)/Apsim77-r3615/Model/Apsim.exe"
 apsimWd <- "~/APSIM"
 apsimmod<-"C:/Program Files (x86)/Apsim77-r3615/Model/"
 apsimFile <- "Centro.apsim"
-obs<-c(900,1200)
+obs<-c(900,1200) ### Observed yield
 #########################################objective function
 #  
 ## This function just take out the yield from the output
